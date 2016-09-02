@@ -1,0 +1,19 @@
+//
+//  ph.pch
+//  赖狗画线
+//
+//  Created by 赖天翔 on 16/8/10.
+//  Copyright © 2016年 赖天翔. All rights reserved.
+//
+
+#ifndef ph_pch
+#define ph_pch
+#import "MainViewController.h"
+#import "BezierBaseViewController.h"
+#import "DrawView.h"
+#import "BezierAdvanceViewController.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* ph_pch */
